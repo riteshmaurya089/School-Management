@@ -14,5 +14,14 @@
     "express": "^4.19.2",
     "mongoose": "^8.2.3"
   },
-  "description": ""
+  "description": "",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/riteshmaurya089/School-Management.git"
+  },
+  "bugs": {
+    "url": "https://github.com/riteshmaurya089/School-Management/issues"
+  },
+  "homepage": "https://github.com/riteshmaurya089/School-Management#readme"
 }
